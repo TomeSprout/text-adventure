@@ -1,3 +1,7 @@
+# Text Adventure
+
+## Codecademy Project
+
 In order to complete this project, you should be familiar with C++ conditionals and control flow, loops, and setting variables using user input. Ideally, you’ve finished the first four sections of Learn C++ (through Loops).
 Project Requirements
 2.
